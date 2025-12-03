@@ -26,3 +26,4 @@ console.log(potenza);
 console.log(`Con i numeri da te scelti, i risultati delle varie operazioni sono: somma ${somma}, sottrazione ${sottrazione}, moltiplicazione ${moltiplicazione}, divisione ${divisione} e potenza ${potenza} `);
 
 
+
